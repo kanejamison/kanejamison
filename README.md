@@ -8,6 +8,8 @@ I'm also the founder of [Content Harmony](https://www.contentharmony.com) — a 
 
 I've been building things for the web my entire career. When I'm not in a full-time role, I work with software development clients through [Fixture Media](https://fixture.media).
 
+Currently sharing blog posts on Ruby on Rails and growth topics at [RailsGrowth.com](https://railsgrowth.com)
+
 ---
 
 ## What I Work On
@@ -29,14 +31,6 @@ Zapier, Make.com, and n8n builds. Integrations with Airtable, Slack, Notion, and
 
 **Data scraping & analysis**
 Large-scale data gathering across billions of pages and records. Data analysis pipelines generating content and internal insights at scale.
-
----
-
-## Engagement Types
-
-**Fractional** — For teams looking for a part-time embedded team member, whether I'm the only engineer or part of a larger team.
-
-**Project-based** — When a project has a clear target like a SaaS MVP, we can work on a fixed budget and timeline, then scope ongoing support from there.
 
 ---
 

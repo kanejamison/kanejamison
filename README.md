@@ -2,7 +2,7 @@
 
 Growth-focused engineer and founder based in Washington State. 🐳🏔️🌲☕️
 
-I'm currently a full stack engineer on the Growth Product team at [Instrumentl](https://www.instrumentl.com)
+I'm currently an engineer on the Growth Product team at [Instrumentl](https://www.instrumentl.com)
 
 I'm also the founder of [Content Harmony](https://www.contentharmony.com) — a content marketing SaaS platform. Content Harmony started as an agency, and I built the software to automate the tedious parts of content research. Building Content Harmony into a SaaS platform was also my introduction to Ruby on Rails and backend development, after years of front-end web design, low-code, and hacking on JS, PHP, and Ruby scripts.
 
